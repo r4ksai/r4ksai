@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Gitea-informational?style=flat&logo=gitea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Tmux-informational?style=flat&logo=tmux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
