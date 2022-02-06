@@ -21,8 +21,10 @@
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tmux-informational?style=flat&logo=tmux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Espressif-informational?style=flat&logo=espressif&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-RasberryPi-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
+
 
 
 ## &#x1f4c8; GitHub Stats
