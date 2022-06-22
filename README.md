@@ -2,7 +2,7 @@
 
 ![cover](./images/cover.gif)
 
-## Hey Guys !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey Guys !
 **My name is Sai Madhav and Welcome to my Github page.**
 <!--
 [![GitHub r4ksai](https://img.shields.io/github/followers/r4ksai?label=follow&style=social)](https://github.com/r4ksai)
